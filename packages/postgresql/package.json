@@ -56,11 +56,11 @@
     "access": "public"
   },
   "dependencies": {
-    "@mikro-orm/knex": "^5.1.4",
+    "@mikro-orm/knex": "^6.6.14",
     "pg": "8.7.3"
   },
   "devDependencies": {
-    "@mikro-orm/core": "^5.1.4"
+    "@mikro-orm/core": "^7.1.5"
   },
   "peerDependencies": {
     "@mikro-orm/core": "^5.0.0",
